@@ -1,5 +1,8 @@
 # PythonFinal
-Final Python Programming Project for Object Oriented Programming
+Final Python Programming Project for Object Oriented Programming 
+# Summary
+This code is inteded to extract data from an external source and transforms it from its raw form to manipulate numerical tables and time series and produce the first five rows of the data set. 
+To accomplish this task, this code uses pandas, a data analysis and manipulation toolkit software library written for the Python programming language. It is a powerful and flexible open source data analysis that is a fundamental high-level building block for doing practical, real world data manipulation.
 # Install and Run Instructions
 1. Check to see if Python is downloaded by running the command:
  - python --version
